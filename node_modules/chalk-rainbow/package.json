@@ -1,0 +1,22 @@
+{
+  "name": "chalk-rainbow",
+  "description": "Get a colorful rainbow string using chalk",
+  "author": "John Otander",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "johnotander/chalk-rainbow",
+  "keywords": [
+    "chalk",
+    "rainbow"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "ava": "*"
+  }
+}
